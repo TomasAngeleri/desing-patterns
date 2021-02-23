@@ -1,4 +1,4 @@
-package com.patterns.creacionales.utils;
+package com.patterns.utils;
 
 import java.util.Scanner;
 
